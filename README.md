@@ -34,7 +34,7 @@ Add the following line to your .zshrc depending on your zsh plugin manager
 
 ## Contributing
 
-You want to add something in nothing! Seriously!
+You want to add something to nothing! Seriously!
 
 ## Author
 
