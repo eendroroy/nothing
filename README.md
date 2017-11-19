@@ -32,6 +32,10 @@ Add the following line to your .zshrc depending on your zsh plugin manager
 
 ##### [oh-my-zsh: Overriding and Adding Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Customization#overriding-and-adding-themes)
 
+## Screenshot
+
+![nothing](https://raw.githubusercontent.com/eendroroy/nothing/master/nothing.png)
+
 ## Contributing
 
 You want to add something to nothing! Seriously!
