@@ -11,7 +11,7 @@
 
 **nothing** is lightening fast and really simple.
 
-**Why?** because is has almost nothing. Really!
+**Why?** because it has almost nothing. Really!
 
 
 ### Installation
