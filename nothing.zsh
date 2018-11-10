@@ -7,7 +7,7 @@ function precmd(){
   setopt prompt_subst
 
   if [[ "$NT_HIDE_COUNT" == '1' ]]; then
-  	command_count='  '
+  	command_count=''
   else
   	command_count='%F{gray}%i %f'
   fi
