@@ -9,7 +9,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/nothing.svg)](https://github.com/eendroroy/nothing/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/nothing.svg)](https://github.com/eendroroy/nothing/pulls?q=is%3Apr+is%3Aclosed)
 
-**nothing** is lightening fast and really simple.
+**nothing** is lightning fast and really simple.
 
 **Why?** because it has almost nothing. Really!
 
